@@ -6,19 +6,25 @@
 
 body {
     background-image: url("background-image.jpg");
-   }
+    margin: 0;
+    padding: 0;
+}
 
 header {
     background-color: white;
     border-bottom: 1px solid lightgrey;
+    margin-bottom: 24px;
 }
 
 h1 {
-    margin-left: 15px;
+    margin-left: 30px;
     background-color: darkcyan;
     padding: 6px;
-    margin-top: 0;
-    margin-bottom: 0;
+}
+
+h2 {
+    margin-left: 20px;
+    color: darkcyan;
 }
 
 ul {
@@ -29,4 +35,9 @@ li {
     float: left;
     margin-right: 15px;
     list-style-type: none;
+}
+
+.col-md-8 {
+    background-color: white;
+    margin-left: 45px;
 }
