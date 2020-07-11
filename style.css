@@ -1,20 +1,30 @@
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+body {
+    background-image: url("background-image.jpg");
+   }
+
+header {
+    background-color: white;
+}
+
 h1 {
-    float: left;
     margin-left: 15px;
-    padding: 15px;
-    font: white;
     background-color: darkcyan;
+    padding: 6px;
 }
 
 ul {
-    list-style-type: none;
-}
-
-ul li {
     float: right;
 }
 
 li {
+    float: left;
     margin-right: 15px;
     padding: 15px;
+    list-style-type: none;
 }
