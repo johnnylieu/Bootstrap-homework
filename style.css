@@ -40,11 +40,12 @@ li {
 
 .col-md-8 {
     background-color: white;
+    padding: 11px;
 }
 
 .aboutMe {
     float: left;
-    margin-right: 10px;
+    margin-right: 24px;
 }
 
 footer {
