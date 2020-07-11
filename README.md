@@ -10,6 +10,9 @@ https://johnnylieu.github.io/Bootstrap-homework/
 
 https://github.com/johnnylieu/Bootstrap-homework/commits/master
 
+## Credits
+Special thanks to Steven Landgraf & Kira Lowrey.
+
 ## License
  
 * © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
