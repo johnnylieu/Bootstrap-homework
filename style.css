@@ -10,12 +10,15 @@ body {
 
 header {
     background-color: white;
+    border-bottom: 1px solid lightgrey;
 }
 
 h1 {
     margin-left: 15px;
     background-color: darkcyan;
     padding: 6px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 ul {
@@ -25,6 +28,5 @@ ul {
 li {
     float: left;
     margin-right: 15px;
-    padding: 15px;
     list-style-type: none;
 }
