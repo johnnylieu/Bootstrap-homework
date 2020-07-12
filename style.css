@@ -19,11 +19,19 @@ header {
     /* position: fixed; */
 }
 
+#home {
+    line-height: normal;
+}
+
 h1, .brand {
     background-color: darkcyan;
     /* height: 45px; */
     color: white;
     font-size: 24px;
+}
+
+.brand {
+    line-height: 75px;
 }
 
 h2 {
