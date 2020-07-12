@@ -20,7 +20,7 @@ header {
 }
 
 #home {
-    line-height: 100px;
+    line-height: 75px;
 }
 
 h1, .brand {
@@ -28,6 +28,7 @@ h1, .brand {
     /* height: 45px; */
     color: white;
     font-size: 24px;
+    text-align: center;
 }
 
 h2 {

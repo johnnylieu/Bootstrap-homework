@@ -11,7 +11,7 @@ https://johnnylieu.github.io/Bootstrap-homework/
 https://github.com/johnnylieu/Bootstrap-homework/commits/master
 
 ## Credits
-Special thanks to Steven Landgraf & Kira Lowrey.
+Special thanks to Elma Gonzalez, Steven Landgraf & Kira Lowrey.
 
 ## License
  
