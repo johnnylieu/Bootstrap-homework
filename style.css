@@ -8,6 +8,7 @@ body {
     background-image: url("background-image.jpg");
     margin: 0;
     padding: 0;
+    overflow: hidden;
 }
 
 header {
@@ -15,12 +16,12 @@ header {
     border-bottom: 1px solid lightgrey;
     margin-bottom: 24px;
     width: 100%;
-    position: fixed;
+    /* position: fixed; */
 }
 
-h1 {
+h1, .brand {
     background-color: darkcyan;
-    height: 45px;
+    /* height: 45px; */
     color: white;
     font-size: 24px;
 }
@@ -32,6 +33,7 @@ h2 {
 
 ul li {
     float: right;
+    list-style: none;
 }
 
 .col-md-8 {
