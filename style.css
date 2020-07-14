@@ -68,6 +68,23 @@ footer {
     height: 45px;
 }
 
+.card-title {
+    z-index: 99;
+    position: absolute;
+    bottom: 8px;
+    right: 35%;
+    background-color: darkcyan;
+}
+
+.jl {
+    margin-left: 100px;
+}
+
+.portfolio {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
 .portColLeft {
     float: left;
     width: 50%;
