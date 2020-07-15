@@ -2,7 +2,7 @@
 
 ## Summary
 
-Hello world, this is my about me page. It's a summary of who I am, what I want to accomplish with coding, and what sparked my interest in coding. Enjoy!
+This is the start of a website about me, my portfolio and contact info.
 
 https://johnnylieu.github.io/Bootstrap-homework/
 
