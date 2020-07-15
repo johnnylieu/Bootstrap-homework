@@ -3,6 +3,7 @@
 ## Summary
 
 This is the start of a website about me, my portfolio and contact info.
+(Currently still under construction)
 
 https://johnnylieu.github.io/Bootstrap-homework/
 
