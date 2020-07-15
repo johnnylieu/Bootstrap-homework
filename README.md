@@ -10,6 +10,20 @@ https://johnnylieu.github.io/Bootstrap-homework/
 
 https://github.com/johnnylieu/Bootstrap-homework/commits/master
 
+##Screenshots
+
+This is a preview of my "About Me" page:
+
+![About Me](AboutMePage.bmp)
+
+This is a preview of my "Portfolio" page:
+
+![About Me](PortfolioPage.bmp)
+
+This is a preview of my "Contact" page:
+
+![About Me](ContactPage.bmp)
+
 ## Credits
 Special thanks to Elma Gonzalez, Steven Landgraf & Kira Lowrey.
 
