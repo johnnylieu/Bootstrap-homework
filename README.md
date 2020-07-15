@@ -27,6 +27,8 @@ This is a preview of my "Contact" page:
 ## Credits
 Special thanks to Elma Gonzalez, Steven Landgraf & Kira Lowrey.
 
+https://guides.github.com/features/mastering-markdown/
+
 ## License
  
 * © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
