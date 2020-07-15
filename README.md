@@ -10,7 +10,7 @@ https://johnnylieu.github.io/Bootstrap-homework/
 
 https://github.com/johnnylieu/Bootstrap-homework/commits/master
 
-##Screenshots
+## Screenshots
 
 This is a preview of my "About Me" page:
 
